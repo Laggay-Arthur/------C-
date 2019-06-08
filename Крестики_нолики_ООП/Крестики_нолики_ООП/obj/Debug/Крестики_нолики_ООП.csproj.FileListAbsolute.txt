@@ -1,0 +1,13 @@
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\bin\Debug\Крестики_нолики_ООП.exe.config
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\bin\Debug\cres.jpg
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\bin\Debug\null.png
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\bin\Debug\pust.jpg
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\bin\Debug\Крестики_нолики_ООП.exe
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\bin\Debug\Крестики_нолики_ООП.pdb
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\obj\Debug\Крестики_нолики_ООП.csprojResolveAssemblyReference.cache
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\obj\Debug\Крестики_нолики_ООП.Form1.resources
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\obj\Debug\Крестики_нолики_ООП.Properties.Resources.resources
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\obj\Debug\Крестики_нолики_ООП.csproj.GenerateResource.Cache
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\obj\Debug\Крестики_нолики_ООП.exe
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\obj\Debug\Крестики_нолики_ООП.pdb
+c:\users\артур\documents\visual studio 2015\Projects\Крестики_нолики_ООП\Крестики_нолики_ООП\bin\Debug\button.png
